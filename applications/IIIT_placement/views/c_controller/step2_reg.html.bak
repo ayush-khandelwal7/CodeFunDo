@@ -1,0 +1,9 @@
+{{extend 'mylayout.html'}}
+<h1>This is the c_controller/step2_reg.html template</h1>
+
+
+<br/>
+<div class="welcome123" style="width:80%; margin:auto;">
+    {{=step2form}}
+</div>
+<div class="clear123"></div>
